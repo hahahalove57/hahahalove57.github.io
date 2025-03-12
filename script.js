@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("欢迎访问我的个人网站！");
+    alert("仍在建设中，敬请等待！");
 }
